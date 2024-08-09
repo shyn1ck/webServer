@@ -1,0 +1,7 @@
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+
+Реализовать 2-endpoint'а:
+- Получение списка всех задач
+- Создание задачи
+
